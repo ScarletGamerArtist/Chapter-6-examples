@@ -12,7 +12,8 @@ public class Game {
 	}
 		//methods
 			public static void template(Scanner input) {
-					
+			}
+					private static void start(Scanner input) {
 				
 				//ASCII art
 				System.out.println("");
@@ -28,11 +29,12 @@ public class Game {
 				String answer = ""; 
 				while (answer.equals("forest") || answer.equals("house") || answer.equals("lake")) {
 					//question prompt
+					System.out.println("");
 				//	System.out.println
 					
 					
 					
-				
+				}
 					
 				}
 				
@@ -47,6 +49,6 @@ public class Game {
 		
 		
 		
-	}
+	
 
 
